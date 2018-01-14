@@ -1,0 +1,48 @@
+body {
+    font-size: 16px;
+}
+
+header {
+    border: 0px;
+    background-color: #2d2d2d;     
+}
+
+.navbar-inverse {
+    padding: 40px;
+  }
+
+.navbar-inverse .navbar-brand {
+    color: #5CCCCC;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+.navbar-inverse ul li a {
+    font-size: 20px;
+}
+
+.image {
+    color:aliceblue;
+    background-image: url(../img/sunset.jpg);
+    background-color: #5CCCCC;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+	text-align: center;
+    margin-top: -20px;
+}
+
+.col-md-4 h2 {
+   text-align: center; 
+}
+
+.col-md-4 img{
+    width:100%;
+}
+
+footer {
+	background-color: #2d2d2d;
+	color: #9d9d9d;
+	margin-top: 20px;
+	padding-top: 20px;
+} 
